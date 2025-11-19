@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemt6bG51MGtobm9odXprY2Foc3pneXE3d2dzcjl0aDlubnF0ajZtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"/>
+</div>
 
 <!--
 **LorenzoReitani/LorenzoReitani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
