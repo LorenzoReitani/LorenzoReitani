@@ -2,6 +2,17 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWM5bDgxMzBtc2w3NzJrYzk3YnIwZjh2YWZkdGp3OXFlYzdmY3Q5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"/>
 </div>
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,nodejs,bash,mysql,c,ai,idea,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=html,css,anaconda,aws,firebase,azure,js,github,git,figma" />
+</p>
+
+<hr>
+
 <!--
 **LorenzoReitani/LorenzoReitani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
