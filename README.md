@@ -4,14 +4,20 @@
 
 <br>
 
-<p align="center" style="margin: 0;">
-  <a href="https://www.linkedin.com/in/TUO_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:tuoindirizzo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/TUO_USERNAME">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:tuoindirizzo@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 
 [![gmail link](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lollo.reitani@gmail.com)
 [![linkedin profile link](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-reitani-10305923a)
